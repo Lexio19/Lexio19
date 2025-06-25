@@ -1,7 +1,7 @@
 # 👋 ¡Hola! Soy Lexio19
 
-🎓 Recién graduado/a en Desarrollo de Aplicaciones Web  
-💻 Apasionado/a por el **Desarrollo Web** y la **Ciberseguridad**
+🎓 Recién graduado en Desarrollo de Aplicaciones Web  
+💻 Apasionado por el **Desarrollo Web** y la **Ciberseguridad**
 🔍 Explorando cómo construir aplicaciones seguras, eficientes y escalables  
 
 ---
