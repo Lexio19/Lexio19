@@ -14,6 +14,7 @@ Actualmente, estoy:
 
 - 👨‍💻 Perfeccionando mis habilidades en **JavaScript**, **Node.js**, **React**, y **bases de datos**
 - 🛠️ Trabajando en proyectos personales para mejorar como Full Stack Developer
+- 🌍 El enlace a mi proyecto final de curso es este: https://github.com/Lexio19/proyectoFinal2Daw
 
 ---
 
@@ -29,7 +30,7 @@ Actualmente, estoy:
 
 ## 📫 Cómo contactarme
 
-- 💼 https://www.linkedin.com/in/alejandro-miras-and%C3%BAjar-958645230/ 
+- 💼 Linkedin:  https://www.linkedin.com/in/alejandro-miras-and%C3%BAjar-958645230/ 
 
 ---
 
